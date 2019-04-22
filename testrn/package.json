@@ -27,7 +27,7 @@
     "prop-types": "15.6.2",
     "react": "16.8.6",
     "react-apollo": "2.5.4",
-    "react-native": "0.59.3",
+    "react-native": "0.55.0",
     "react-native-awesome-card-io": "0.8.1",
     "react-native-camera": "1.4.3",
     "react-native-collapsible": "1.4.0",
